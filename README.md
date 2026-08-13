@@ -9,11 +9,11 @@ The Sales Trend Dashboard helps analyze sales performance, profit, units sold, c
  The dashboard provides insights into:
 
 • Total Sales • Total Profit • Profit Percentage • Units Sold • Top Country • Top Selling Product • Monthly Sales Trend
-
+---
 TOOLS USED
 
 • Microsoft Excel • Power Query Editor • Power BI Desktop • DAX
-
+---
 POWER QUERY EDITOR STEPS
 
 Step 1: Load Dataset
@@ -146,6 +146,8 @@ Create slicers for:
 
 • Year • Month
 
-SNAPSHOT
-(slicers.png)
+## SNAPSHOT
+
+![Slicers](slicers.png)
+---
 
