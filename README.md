@@ -299,3 +299,18 @@ Values → Units Sold
 
 SNAPSHOT
 ![unites](units_chart.png)
+INSIGHTS
+
+Japan generated the highest sales.
+
+Paseo is the top-selling product.
+
+Government segment generated maximum sales.
+
+July recorded the highest sales.
+
+Profit percentage is 14.23%.
+
+Total sales reached 118.73M.
+
+END OF REPORT
